@@ -1,3 +1,3 @@
-[![Build Status](https://travis-ci.org/georgeyue/meh.svg?branch=master)](https://travis-ci.org/georgeyue/meh)
+[![Build Status](https://travis-ci.org/georgeyue/react-meh.svg?branch=master)](https://travis-ci.org/georgeyue/react-meh)
 # meh
 Meh
