@@ -1,6 +1,6 @@
 {
   "name": "react-meh",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Test React component - Meh",
   "main": "./lib/index",
   "scripts": {
